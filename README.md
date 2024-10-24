@@ -28,7 +28,4 @@ This Python script is designed to scrape articles from portals like Klix.ba, spe
 - Ensure that all required libraries (`requests`, `beautifulsoup4`, `pandas`, and `html`) are installed in your Python environment.
 - Run the script in a Python environment to fetch and store article data.
 
-## Notes
 
-- The code is designed to handle potential missing data gracefully.
-- Make sure to comply with the website's terms of service when scraping content.
