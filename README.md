@@ -1,8 +1,10 @@
 # Web Scraping with BeautifulSoup
 
-This Python script is designed to scrape articles from portals like Klix.ba, specifically targeting the business category. It uses the `requests` library to fetch web pages and `BeautifulSoup` from `bs4` to parse the HTML content. 
+Python scripts are designed to scrape articles from portals like Klix.ba and Universitry PDF Archives. It uses the `requests` library to fetch web pages and `BeautifulSoup` from `bs4` to parse the HTML content. 
 
-## Code Summary
+A JSON Format Code is also included that is needed for the specific scraped data.
+
+## Code Summary for Klix
 
 1. **Imports**: The script imports necessary libraries for web scraping, JSON handling, data manipulation, and HTML processing.
 
