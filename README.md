@@ -1,12 +1,14 @@
-# Web Scraping with BeautifulSoup
+# Web Scraping
 
-Python scripts are designed to scrape articles from portals like Klix.ba and Universitry PDF Archives. It uses the `requests` library to fetch web pages and `BeautifulSoup` from `bs4` to parse the HTML content. 
+The Python scripts are designed to scrape articles from portals like Klix.ba and Universitry PDF Archives. It uses the `requests` library to fetch web pages and `BeautifulSoup` from `bs4` to parse the HTML content. 
 
 Adding to that, there is a Python script implemented with `Selenium` for Web scraping spacifically dynamic HTML code. Dynamic HTML code can't be scraped with `BeautifulSoup`.
 
 A JSON Format Code is also included that is needed for the specific scraped data.
 
-## Code Summary for Klix
+The current provided code is not the final version.
+
+## Code Summary for Klix.ba
 
 1. **Imports**: The script imports necessary libraries for web scraping, JSON handling, data manipulation, and HTML processing.
 
